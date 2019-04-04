@@ -1,1 +1,2 @@
 curl -s -H "Content-type: application/json" -X POST http://localhost:9200/classes/class/1/ -d @oneclass.json
+curl -X POST http://localhost:9200/classes/class/2/ -H "Content-type: application/json" -d '{"title":"xxxxx"}'
