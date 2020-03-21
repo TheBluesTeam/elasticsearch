@@ -21,7 +21,7 @@
 			},
 			"submit_date" : {
 				"type" : "date",
-				"format" : "yyyy-MM-dd"
+				"format" : "yyyy-MM-ddThh:mm:ss"
 			}
 		}
 	}
