@@ -1,40 +1,40 @@
 { "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "1" } }
 {"team" : "Liverpool","H/A" : "home","Results" : "Win","Goals" : 4,"loses" : 1,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "2" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "2" } }
 {"team" : "Norwich","H/A" : "away","Results" : "Lose","Goals" : 0,"loses" : 4,"submit_date" : "2019-08-10"
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "3" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "3" } }
 {"team" : "West Ham","H/A" : "home","Results" : "Lose","Goals" : 0,"loses" : 5,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "4" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "4" } }
 {"team" : "Man City","H/A" : "away","Results" : "Win","Goals" : 5,"loses" : 0,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "5" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "5" } }
 {"team" : "Watford","H/A" : "home","Results" : "Lose","Goals" : 0,"loses" : 3,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "6" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "6" } }
 {"team" : "Brighton","H/A" : "away","Results" : "Win","Goals" : 3,"loses" : 1,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "7" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "7" } }
 {"team" : "Crystal Palace","H/A" : "home","Results" : "Draw","Goals" : 0,"loses" : 0,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "8" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "8" } }
 {"team" : "Everton","H/A" : "away","Results" : "Draw","Goals" : 0,"loses" : 0,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "9" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "9" } }
 {"team" : "Burnley","H/A" : "home","Results" : "Win","Goals" : 3,"loses" : 0,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "10" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "10" } }
 {"team" : "Southampton","H/A" : "away","Results" : "Draw","Goals" : 0,"loses" : 3,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "11" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "11" } }
 {"team" : "Bournemouth","H/A" : "home","Results" : "Draw","Goals" : 1,"loses" : 1,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "12" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "12" } }
 {"team" : "Sheff Utd","H/A" : "away","Results" : "Draw","Goals" : 1,"loses" : 1,"submit_date" : "2019-08-10"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "13" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "13" } }
 {"team" : "Tottenham","H/A" : "home","Results" : "Win","Goals" : 3,"loses" : 1,"submit_date" : "2019-08-11"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "14" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "14" } }
 {"team" : "Aston Villa","H/A" : "away","Results" : "Lose","Goals" : 1,"loses" : 3,"submit_date" : "2019-08-11"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "15" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "15" } }
 {"team" : "Newcastle","H/A" : "home","Results" : "Lose","Goals" : 0,"loses" : 1,"submit_date" : "2019-08-11"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "16" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "16" } }
 {"team" : "Arsenal","H/A" : "away","Results" : "Win","Goals" : 1,"loses" : 0,"submit_date" : "2019-08-11"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "17" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "17" } }
 {"team" : "Leicester","H/A" : "home","Results" : "Draw","Goals" : 0,"loses" : 0,"submit_date" : "2019-08-11"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "18" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "18" } }
 {"team" : "Wolves","H/A" : "away","Results" : "Draw","Goals" : 0,"loses" : 0,"submit_date" : "2019-08-11"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "19" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "19" } }
 {"team" : "Man Utd","H/A" : "home","Results" : "Win","Goals" : 4,"loses" : 0,"submit_date" : "2019-08-12"}
-{ "index" : { "_index" : "football", "_type" : "team_record", "_id" : "20" } }
+{ "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "20" } }
 {"team" : "Wolves","H/A" : "away","Results" : "Lose","Goals" : 0,"loses" : 4,"submit_date" : "2019-08-12"}
