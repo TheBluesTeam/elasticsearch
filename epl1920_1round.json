@@ -37,4 +37,4 @@
 { "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "19" } }
 {"team" : "Man Utd","H/A" : "home","Results" : "Win","Goals" : 4,"loses" : 0,"submit_date" : "2019-08-12"}
 { "index" : { "_index" : "football", "_type" : "1R_team_results", "_id" : "20" } }
-{"team" : "Wolves","H/A" : "away","Results" : "Lose","Goals" : 0,"loses" : 4,"submit_date" : "2019-08-12"}
+{"team" : "Chelsea","H/A" : "away","Results" : "Lose","Goals" : 0,"loses" : 4,"submit_date" : "2019-08-12"}
