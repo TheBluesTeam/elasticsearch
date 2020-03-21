@@ -1,0 +1,28 @@
+{
+	"record" : {
+		"properties" : {
+			"team" : {
+				"type" : "string",
+				"fielddata" : true
+			},
+			"H/A" : {
+				"type" : "string",
+				"fielddata" : true
+			},
+      "Results" : {
+        "type" : "string",
+        "fielddate" : true
+      },
+			"Goals" : {
+				"type" : "long"
+			},
+			"loses" : {
+				"type" : "long"
+			},
+			"submit_date" : {
+				"type" : "date",
+				"format" : "yyyy-MM-dd"
+			}
+		}
+	}
+}
