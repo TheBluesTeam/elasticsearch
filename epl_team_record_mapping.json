@@ -9,10 +9,10 @@
 				"type" : "string",
 				"fielddata" : true
 			},
-      "Results" : {
-        "type" : "string",
-        "fielddate" : true
-      },
+                        "Results" : {
+                                 "type" : "string",
+                                 "fielddate" : true
+                        },
 			"Goals" : {
 				"type" : "long"
 			},
