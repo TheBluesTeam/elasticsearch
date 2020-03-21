@@ -1,5 +1,5 @@
 {
-	"record" : {
+	"1R_team_results" : {
 		"properties" : {
 			"team" : {
 				"type" : "string",
