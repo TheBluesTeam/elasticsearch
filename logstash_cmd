@@ -1,0 +1,2 @@
+cd /usr/share/logstash/bin
+./logstash -f /jsonfile/logstash-simple.conf
