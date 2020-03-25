@@ -1,1 +1,26 @@
-curl -X GET localhost:9200/classes/class/_search?pretty    <- documonet search
+
+[파일 업로드]
+curl -XPOST 'localhost:9200/customer2/info/2?pretty' -H 'Content-Type: application/json' -d @data.json
+
+[대량 파일 업로드]
+curl -XPOST 'localhost:9200/football/1R_team_results/_bulk?pretty' -H 'Content-Type: application/x-ndjson' --data-binary @epl1920_1round.json
+
+[인덱스 document 조회]
+curl -XGET 'localhost:9200/customer2/_search?pretty'
+
+[SEARCH URL]
+curl -XGET 'localhost:9200/basketball/record/_search?q=points:30&pretty'
+
+[SEARCH REQUEST BODY]
+
+
+[인덱스 추가]
+curl -XPUT localhost:9200/basketball
+
+
+[인덱스 mapping]
+curl -XPUT 'localhost:9200/football/1R_team_results/_mappin?pretty' -H 'Content-Type: application/x-ndjson' -d @epl_2Rteam_result_mapping.json
+
+
+[모든 idex 조회]
+curl -XGET 'localhost:9200/_cat/indices?v'
